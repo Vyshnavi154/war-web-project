@@ -6,7 +6,7 @@
 	<link href="static/style.css" rel="stylesheet" type="text/css">
 </head>
 <body><h1>
-		DEPLOYED TO TOMCAT
+		DEPLOYED TO TOMCAT SERVER
 	</h1>
 </body>
 </html>
